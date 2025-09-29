@@ -1,0 +1,16 @@
+EJERCICIO 1: 
+Crea un método que compruebe si un arreglo de enteros está en orden ascendente. Si todos los números están ordenados de menor a mayor, devuelve true, si no, devuelve false.
+ 
+EJERCICIO 2: 
+Crea un método que compare dos cadenas y verifique si la segunda es la inversa de la primera. Si lo es, devuelve true, si no, devuelve false.
+ 
+EJERCICIO 3: 
+Crea un método que revise si una contraseña es segura. Debe cumplir:
+- Al menos 8 caracteres
+- Una letra mayúscula
+- Una letra minúscula
+- Un número
+- Un carácter especial de este listado (!@#$%^&*)
+ 
+EJERCICIO 4: 
+Crea un método que reciba una cadena y cuente cuántas vocales y cuántas consonantes tiene. Muestra ambos resultados.
